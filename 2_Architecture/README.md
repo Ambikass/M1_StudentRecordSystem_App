@@ -24,3 +24,4 @@
    # Class diagram
    
    
+   ![Class_diagram](https://user-images.githubusercontent.com/46968025/152696995-53df3efb-2218-4726-ad16-859442d7396d.jpeg)
