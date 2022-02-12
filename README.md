@@ -1,5 +1,5 @@
 # M1_StudentRecordSystem_App
- The student record system provides the management of records of the student.
+ The student record system provides the management of records of the students.
  
  
  ## Folder structure
