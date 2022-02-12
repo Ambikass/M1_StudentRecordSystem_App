@@ -16,5 +16,5 @@
 
  ##  Code Analysis
  * Codacy
- * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bb317b28f654b7d88c7292fa210e5ba)](https://www.codacy.com/gh/Ambikass/M1_StudentRecordSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ambikass/M1_StudentRecordSystem_App&amp;utm_campaign=Badge_Grade)
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bb317b28f654b7d88c7292fa210e5ba)](https://www.codacy.com/gh/Ambikass/M1_StudentRecordSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ambikass/M1_StudentRecordSystem_App&amp;utm_campaign=Badge_Grade)
  
