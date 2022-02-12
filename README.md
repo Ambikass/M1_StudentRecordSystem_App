@@ -20,4 +20,4 @@
   
  * Codiga
 ![Codiga Badge](https://api.codiga.io/project/31255/score/svg)
-![Codiga Badge](https://api.codiga.io/project/31255/status/svghttps://api.codiga.io/project/31255/status/svg)
+![Codiga Badge](https://api.codiga.io/project/31255/status/svg)
