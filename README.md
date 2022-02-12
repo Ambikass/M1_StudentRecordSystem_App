@@ -21,3 +21,7 @@
  * Codiga
 ![Codiga Badge](https://api.codiga.io/project/31255/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31255/status/svg)
+
+
+# Reference
+![Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
