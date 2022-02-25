@@ -11,7 +11,7 @@
  |3_Impplementation   |All the code is written here        | 
  |4_TestPlanAndOutout |Documents with test plan and output |
  |5_Report            |Generated report                    |   
- |6_Video             |Implemented pictures                |
+ |6_ImagesAndVideo             |Implemented pictures                |
  
 
  ##  Code Analysis
