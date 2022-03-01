@@ -22,6 +22,9 @@
 ![Codiga Badge](https://api.codiga.io/project/31255/score/svg)
 ![Codiga Badge](https://api.codiga.io/project/31255/status/svg)
 
+* Cppcheck
+[![Cppcheck](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/cppcheck.yml)
+
 
 # Reference
 ![Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
