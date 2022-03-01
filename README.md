@@ -25,6 +25,9 @@
 * Cppcheck
 [![Cppcheck](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/cppcheck.yml)
 
+* Dynamic Code Analysis
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Dynamic_code_analysis.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Dynamic_code_analysis.yml)
+
 
 # Reference
 ![Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
