@@ -28,6 +28,8 @@
 * Dynamic Code Analysis
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Dynamic_code_analysis.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Dynamic_code_analysis.yml)
 
+* Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Git_Inspector.yml)
 
 # Reference
 ![Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
