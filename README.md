@@ -22,5 +22,5 @@
 
 
 # Resource
-![Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
+* [Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
 
