@@ -15,12 +15,11 @@
  
 
 ##  Code Analysis
- |  Codacy|
- | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bb317b28f654b7d88c7292fa210e5ba)](https://www.codacy.com/gh/Ambikass/M1_StudentRecordSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ambikass/M1_StudentRecordSystem_App&amp;utm_campaign=Badge_Grade) |
+ |  Codacy|Codiga|
+ |--------|-------|
+ | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bb317b28f654b7d88c7292fa210e5ba)](https://www.codacy.com/gh/Ambikass/M1_StudentRecordSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ambikass/M1_StudentRecordSystem_App&amp;utm_campaign=Badge_Grade) |![Codiga Badge](https://api.codiga.io/project/31255/score/svg)![Codiga Badge](https://api.codiga.io/project/31255/status/svg)|
   
- * Codiga
-![Codiga Badge](https://api.codiga.io/project/31255/score/svg)
-![Codiga Badge](https://api.codiga.io/project/31255/status/svg)
+ 
 
 * Cppcheck
 [![Cppcheck](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/cppcheck.yml)
