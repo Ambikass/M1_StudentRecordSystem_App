@@ -1,4 +1,7 @@
-# Report
+# Student Record System
+
+
+## Description
 
  The student record system provides the features like addition of student information,deletion of student information,searching the student information ,displaying the information and this system is password protected and having the feature of updating the password. 
  
