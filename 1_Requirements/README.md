@@ -5,19 +5,23 @@
 
 
   ## High level requirements
-
-   * Adding the student details.
-   * Searching the student details.
-   * Deleting the existing student details.
-   * Update the username and password.
-   * View the student details.
+  
+  |ID|Description|
+  |--|-----------|
+   |HLR1|Adding the student details.|
+   |HLR2|Searching the student details.|
+   |HLR3|Deleting the existing student details.|
+   |HLR4|Update the username and password.|
+   |HLR5|View the student details.|
   
   ## Low level requirements
-
-   * Add the student id,student name,father name,date of joining. 
-   * Search the student details by using their student id.
-   * Delete the student details by using their student id.
-   * Update the existing password and username into new password and username.
+  
+   |ID|Description|
+  |--|-----------|
+   |LLR1|Add the student id,student name,father name,date of joining.| 
+   |LLR2|Search the student details by using their student id.|
+   |LLR3|Delete the student details by using their student id.|
+   |LLR4|Update the existing password and username into new password and username.|
 
 
 
