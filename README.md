@@ -14,9 +14,9 @@
  |6_ImagesAndVideo             |Implemented pictures                |
  
 
- ##  Code Analysis
- * Codacy
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bb317b28f654b7d88c7292fa210e5ba)](https://www.codacy.com/gh/Ambikass/M1_StudentRecordSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ambikass/M1_StudentRecordSystem_App&amp;utm_campaign=Badge_Grade)
+##  Code Analysis
+| * Codacy|
+ | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2bb317b28f654b7d88c7292fa210e5ba)](https://www.codacy.com/gh/Ambikass/M1_StudentRecordSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ambikass/M1_StudentRecordSystem_App&amp;utm_campaign=Badge_Grade) |
   
  * Codiga
 ![Codiga Badge](https://api.codiga.io/project/31255/score/svg)
@@ -31,5 +31,5 @@
 * Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Ambikass/M1_StudentRecordSystem_App/actions/workflows/Git_Inspector.yml)
 
-# Reference
+# Resource
 ![Reference](https://aticleworld.com/student-record-system-project-in-c/#:~:text=The%20mini%2Dproject%20%E2%80%9CStudent%20Record,Blocks%20with%20the%20GCC%20compiler)
